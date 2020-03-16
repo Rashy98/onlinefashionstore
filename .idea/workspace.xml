@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a514054-fb5a-4e54-994b-7dbc2273802d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MainPage/MainPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainPage/MainPageBody.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainPage/MainPageNavBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainElements/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainElements/NavBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainPage/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainPage/MainPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainPage/MainPageBody.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainPage/MainPageBody.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +71,16 @@
       <option name="presentableId" value="Default" />
       <updated>1583596475747</updated>
       <workItem from="1583596477467" duration="1646000" />
-      <workItem from="1584339249285" duration="6605000" />
+      <workItem from="1584339249285" duration="11318000" />
     </task>
+    <task id="LOCAL-00001" summary="Added home page navigation bar">
+      <created>1584348205799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584348205800</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,34 +97,50 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added home page navigation bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added home page navigation bar" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="555" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583597826761">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="555" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1583597826761" />
+    <state x="304" y="52" key="CommitChangelistDialog2" timestamp="1584348205273">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="304" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1584348205273" />
     <state x="680" y="425" key="Github.ShareDialog" timestamp="1583596753608">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="680" y="425" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583596753608" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1584348119663">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1584355408711">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584348119663" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1584348119661">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584355408711" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1584355408710">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584348119661" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1584348119659">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584355408710" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1584355408708">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584348119659" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1584348119662">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584355408708" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1584355408711">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584348119662" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584355408711" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1584348214060">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1584348214060" />
     <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584339987820">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1584339987820" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584350716277">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584350716277" />
   </component>
 </project>
